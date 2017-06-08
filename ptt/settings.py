@@ -13,7 +13,7 @@ SPIDER_MODULES = ['ptt.spiders']
 NEWSPIDER_MODULE = 'ptt.spiders'
 
 BOARD = 'Gossiping'
-MAX_PAGES = 100
+MAX_PAGES = 2000
 
 LOG_LEVEL = 'INFO'
 
